@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="comp" revision="develop" fetch="ssh://git@github.com/smipi1/"/>
+  <project remote="comp" groups="comp" name="comp-hooks-component1" path="c1"/>
+  <project remote="comp" groups="comp" name="comp-hooks-component2" path="c2"/>
+</manifest>
